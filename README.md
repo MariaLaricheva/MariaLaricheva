@@ -1,7 +1,7 @@
 # 💫 About Me:
 Young frontend developer looking for an internship or a junior position
 
-## Check out my portfolio [here](https://marialaricheva.github.io/Portfolio/)
+## Check out my portfolio [here](https://mvlaricheva.netlify.app/)
 
 
 # 💻 Tech Stack:
